@@ -1,4 +1,4 @@
-import { Link, useParams } from 'react-router-dom'
+import { useParams } from 'react-router-dom'
 import { Header } from '../components/Header'
 import { MessageChoose } from '../components/MessageChoose'
 import { Sidebar } from '../components/Sidebar'
@@ -9,9 +9,7 @@ export function Event() {
 
     return (
         <div className="flex flex-col min-h-screen">
-            <Link to={`/event`}>
-                <Header />
-            </Link>
+            <Header />
 
             <main className="flex flex-1">
                 { slug 
