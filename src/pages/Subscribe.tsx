@@ -32,7 +32,7 @@ export function Subscribe() {
                     <Logo />
 
                     <h1 className="mt-8 text-[2.5rem] leading-light"> 
-                        Build a <strong className="text-blue-500"> complete application </strong>, from scratch, with <strong className="text-blue-500"> React. </strong> 
+                        Build a <strong className="text-blue-500"> complete application</strong>, from scratch, with <strong className="text-blue-500"> React. </strong> 
                     </h1>
 
                     <p className="mt-4 text-gray-200 leading-relaxed">
@@ -71,7 +71,8 @@ export function Subscribe() {
                 </div>
             </div>
 
-            <img src="/src/assets/code_mockup.png" className="mt-10" alt=""/>
+            <img src="../src/assets/react-background.png" className="absolute" />
+            <img src="../src/assets/code-mockup.png" className="mt-10" />
         </div>
     )
 }
