@@ -76,15 +76,18 @@ A platform where students can sign up to watch available classes. The administra
     <a href="https://tailwindcss.com/"> 
       <img align="center" alt="Icon-Talwindcss" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> 
     </a> &nbsp;
-    <!-- Icon Axios -->
-    <a href="https://axios-http.com/"> 
-      <img align="center" alt="Icon-Axios" height="55" src="https://user-images.githubusercontent.com/44311634/178089407-0176462e-7e60-4f4f-9ad8-5429a22b2c5c.png"> 
+    <!-- Icon Apollo --> 
+    <a href="https://www.apollographql.com/"> 
+      <img align="center" alt="Icon-Talwindcss" height="35" src="https://user-images.githubusercontent.com/44311634/179635711-e87c00b6-ed09-468a-a649-09950ac0b4bd.png"> 
+    </a> &nbsp;
+    <!-- Icon GraphQL -->
+    <a href="https://graphql.org/"> 
+      <img align="center" alt="Icon-Axios" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"> 
     </a>
 </div>
 
 <br/>
 <br/>
-
 
 <!---- GETTING STARTED ----> 
 ## Getting Started
