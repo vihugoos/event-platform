@@ -11,7 +11,7 @@
   
   <p align="center">
     Platform to watch video classes, developed with React and GraphQL. <br/>
-    Explore <a href="https://reactjs.org/docs/getting-started.html">React</a> or <a href="https://graphql.org/learn/">GraphQL</a> docs &#187; <br/> <br/>
+    Explore <a href="https://reactjs.org/docs/getting-started.html" target="_blank">React</a> or <a href="https://graphql.org/learn/">GraphQL</a> docs &#187; <br/> <br/>
     <a href="https://ignite-lab-sigma-drab.vercel.app/"> View Demo Project </a> &nbsp;•&nbsp;
     <a href="https://github.com/vihugoos/event-platform/issues"> Report Bug </a> &nbsp;•&nbsp;
     <a href="https://github.com/vihugoos/event-platform/issues"> Request Feature </a>
