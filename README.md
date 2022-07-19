@@ -98,7 +98,7 @@ To get started, you need to have <strong>Node.js 16+</strong> installed on your 
 
 ### Prerequisites 
 
-First of all, we need to create the application backend, for that, you will need to create an account in <a href="https://auth.graphcms.com/login?state=hKFo2SBId0tvOHUzNm9oZVBMeXpESzZPanVlVjNjNFdlUEtTNKFupWxvZ2luo3RpZNkgVUVFM19QMkg0cldjUWdKZXBWMl91c3JXUUhwSnNUdlWjY2lk2SA4VldTZHlVaHRaVDQzbkFpcHIyZmpLUmhqSm1wOHNZeQ&client=8VWSdyUhtZT43nAipr2fjKRhjJmp8sYy&protocol=oauth2&response_type=id_token&redirect_uri=https%3A%2F%2Fapp.hygraph.com%2Fauth&scope=openid%20https%3A%2F%2Fgraphcms.com%2FloginsCount&initial_screen=login&nonce=vNcTAJyDMB_CAFUNXHphlHUHfG89RX-b&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNi4yIn0%3D">Hygraph</a>. After creating an account, let's clone my Hygrapha project by <strong>clicking</strong> the button below. 
+First of all, we need to create the application backend, for that, you will need to create an account in <a href="https://auth.graphcms.com/login?state=hKFo2SBId0tvOHUzNm9oZVBMeXpESzZPanVlVjNjNFdlUEtTNKFupWxvZ2luo3RpZNkgVUVFM19QMkg0cldjUWdKZXBWMl91c3JXUUhwSnNUdlWjY2lk2SA4VldTZHlVaHRaVDQzbkFpcHIyZmpLUmhqSm1wOHNZeQ&client=8VWSdyUhtZT43nAipr2fjKRhjJmp8sYy&protocol=oauth2&response_type=id_token&redirect_uri=https%3A%2F%2Fapp.hygraph.com%2Fauth&scope=openid%20https%3A%2F%2Fgraphcms.com%2FloginsCount&initial_screen=login&nonce=vNcTAJyDMB_CAFUNXHphlHUHfG89RX-b&auth0Client=eyJuYW1lIjoiYXV0aDAuanMiLCJ2ZXJzaW9uIjoiOS4xNi4yIn0%3D">Hygraph</a>. After creating an account, let's clone my Hygraph project by <strong>clicking</strong> the button below. 
 
 * Clone the project
 
