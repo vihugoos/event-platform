@@ -122,17 +122,17 @@ First of all, we need to create the application backend, for that, you will need
     <img align="center" alt="Content-API" src="https://user-images.githubusercontent.com/44311634/179856179-d93c0334-44e2-4437-8d06-6fe24ffa85f2.jpg"> 
    </div>
    <br/>
-4. Create an `.env.local` file with your Content API URL (don't forget to change the value of the variable) 
+4. Create an `.env.local` file with your Content API URL (<i>don't forget to change the value of the variable</i>) 
    ```cmd
    echo "VITE_API_URL='yourContentAPIURL'" > .env.local 
    ```
-5. In <strong>Settings > API Access > Permanent Auth Tokens</strong>, copy the generated token  
+5. In <strong>Settings > API Access > Permanent Auth Tokens</strong>, copy the auto-generated token  
    <br/> 
    <div align="center">
     <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/179865655-e8785015-f3ac-451f-b8b6-82106b9ed7fa.jpg"> 
    </div>
    <br/>
-6. Include in the `.env.local` file a variable with the token (don't forget to change the value of the variable) 
+6. Include in the `.env.local` a variable with the auth token (<i>don't forget to change the value of the variable</i>) 
    ```cmd
    acho "yourAuthToken" >> .env.local
    ```
