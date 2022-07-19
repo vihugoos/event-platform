@@ -98,7 +98,7 @@ To get started, you need to have <strong>Node.js 16+</strong> installed on your 
 
 ### Prerequisites 
 
-First of all, we need to create the application backend, for that, you will need to create an account in <a href="https://app.hygraph.com/">hygraph</a>. After creating an account, let's clone my Hygraph project by <strong>clicking</strong> the button below. 
+First of all, we need to create the application backend, for that, you will need to create an account in <a href="https://app.hygraph.com/">Hygraph</a>. After creating an account, let's clone my hygraph project by <strong>clicking</strong> the button below. 
 
 * Clone the project
 
