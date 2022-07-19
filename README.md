@@ -119,7 +119,7 @@ First of all, we need to create the application backend, for that, you will need
 3. In setting, copy the URL content API
    <br/> <br/>
    <div align="center">
-    <img align="center" alt="print-API" src="https://user-images.githubusercontent.com/44311634/179855817-6510a801-9593-4faa-a6ee-6efcb92a8bf6.jpg"> 
+    <img align="center" alt="print-API" src="https://user-images.githubusercontent.com/44311634/179856179-d93c0334-44e2-4437-8d06-6fe24ffa85f2.jpg"> 
    </div> 
  
 
