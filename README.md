@@ -102,7 +102,7 @@ First of all, we need to create the application backend, for that, you will need
 
 * Clone the project
 
-   [![Clone project](https://hygraph.com/button)](https://app.hygraph.com/clone/670db236bb1f499895907b7caec6c641?name=Ignite%20Lab%20-%20%40vihugoos) 
+   [![Clone project](https://hygraph.com/button)](https://app.hygraph.com/clone/670db236bb1f499895907b7caec6c641?name=Ignite%20Lab%20-%20%40vihugoos)  
 
 
 
