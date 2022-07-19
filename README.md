@@ -98,7 +98,7 @@ To get started, you need to have <strong>Node.js 16+</strong> installed on your 
 
 ### Prerequisites 
 
-First of all, we need to create the application backend, for that, you will need to create an account in <a href="https://app.hygraph.com/">Hygraph</a>. After creating an account, let's clone my hygraph project by <strong>clicking</strong> the button below. 
+First of all, we need to create the application backend, for that, you will need to create an account in <a href="https://app.hygraph.com/">Hygraph</a>. After creating an account, let's clone my hygraph project by <strong>clicking</strong> the button below. The clone process may take a few minutes. 
 
 * Clone the project
 
@@ -116,11 +116,16 @@ First of all, we need to create the application backend, for that, you will need
    ```cmd
    npm install
    ```
-3. In setting, copy the URL content API
+3. In setting, copy the Content API URL 
    <br/> <br/>
    <div align="center">
     <img align="center" alt="print-API" src="https://user-images.githubusercontent.com/44311634/179856179-d93c0334-44e2-4437-8d06-6fe24ffa85f2.jpg"> 
-   </div> 
+   </div>
+   <br/>
+4. Create an `.env.local` file with the Content API URL (don't forget to change the value of the variable) 
+   ```cmd
+   echo "VITE_API_URL='yourContentAPIURL'" > .env.local 
+   ```
  
 
 <!---- USAGE EXAMPLES ----> 
