@@ -110,7 +110,7 @@ First of all, we need to create the application backend, for that, you will need
 
 1. Clone the repo 
    ```bash
-   git clone https://github.com/vihugoos/feedback-widget-web.git 
+   git clone https://github.com/vihugoos/event-platform.git 
    ```
 2. Inside the project root directory install all project dependencies 
    ```cmd
