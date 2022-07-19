@@ -116,10 +116,11 @@ First of all, we need to create the application backend, for that, you will need
    ```cmd
    npm install
    ```
-3. Create an `.env.local` file with the server API URL 
-   ```cmd
-   echo "VITE_API_URL='http://localhost:3333'" > .env.local 
-   ``` 
+3. In setting, copy the URL content API
+   <br/> <br/>
+   <div align="center">
+    <img align="center" alt="print-API" src="https://user-images.githubusercontent.com/44311634/179854591-9853a588-def3-4da8-903c-b31dabb3590d.jpg"> 
+   </div> 
  
 
 <!---- USAGE EXAMPLES ----> 
