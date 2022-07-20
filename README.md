@@ -134,7 +134,7 @@ First of all, we need to create the application backend, for that, you will need
    <br/>
 6. Include in the `.env.local` a variable with the auth token (<i>don't forget to change the value of the variable</i>) 
    ```cmd
-   acho "yourAuthToken" >> .env.local
+   echo "yourAuthToken" >> .env.local
    ```
 
 
