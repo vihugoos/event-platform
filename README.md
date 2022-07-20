@@ -132,9 +132,9 @@ First of all, we need to create the application backend, for that, you will need
     <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/179865655-e8785015-f3ac-451f-b8b6-82106b9ed7fa.jpg"> 
    </div>
    <br/>
-6. Include in the `.env.local` a variable with the auth token (<i>don't forget to change the value of the variable</i>) 
+6. Include in the `.env.local` the auth token (<i>don't forget to change the value of the variable</i>) 
    ```cmd
-   echo "yourAuthToken" >> .env.local
+   echo "VITE_API_ACCESS_TOKEN='yourAuthToken'" >> .env.local
    ```
 
 
