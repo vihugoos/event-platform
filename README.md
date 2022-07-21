@@ -114,7 +114,7 @@ First of all, we need to create the application backend, for that, you will need
    ```
 2. Inside the project root directory install all project dependencies 
    ```cmd
-   npm install
+   npm install --force
    ```
 3. In your hygraph project, in <strong>Settings > API Access</strong>, copy the <strong>Content API URL</strong>
    <br/> <br/>
