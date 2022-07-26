@@ -153,17 +153,24 @@ Creating a new lesson to be displayed in the <strong>'Class schedule'</strong> t
 1. In your hygraph project, in <strong>Content > Lesson </strong>, click on <strong>'Create entry'</strong>  
    <br/> 
    <div align="center">
-    <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181101028-20cfda38-05f6-487c-8549-f0d7ddbdb6fb.jpg"> 
+    <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181104978-ad9ed695-285e-46c4-9b5c-a172dd2ff8cc.jpg"> 
    </div>
    <br/>
-2. Please fill in at least all fields marked <strong>'Required'</strong>  
+2. Please fill in at least all fields marked <strong>'Required'</strong>, after that click on <strong>'Save & publish'</strong>  
    <br/> 
    <div align="center">
-    <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181102774-f8578a63-9518-4ae7-badd-3c28cc358b06.jpg"> 
+    <figure>
+      <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181104827-04d0dd2d-9258-4178-9cf8-9b397a6ea1d5.jpg"> 
+      <br/><br/>
+      <figcaption><strong>Important note:</strong> In the <strong>'Video ID'</strong> field, below is an example of how to capture just the ID, without the other URL parameters.</figcaption>
+      <br/><br/>
+      <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181107312-68a2b34f-4732-451d-b736-aa9e8300aefb.jpg"> 
+    </figure>
    </div>
    <br/>
    
 <br/>
+
 
 
 <!---- CONTRIBUTING ---->
