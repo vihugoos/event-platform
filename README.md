@@ -117,7 +117,7 @@ First of all, we need to create the application backend, for that, you will need
    npm install --force
    ```
 3. In your hygraph project, in <strong>Settings > API Access</strong>, copy the <strong>Content API URL</strong>
-   <br/> <br/>
+   <br/><br/>
    <div align="center">
     <img align="center" alt="Content-API" src="https://user-images.githubusercontent.com/44311634/179856179-d93c0334-44e2-4437-8d06-6fe24ffa85f2.jpg"> 
    </div>
@@ -126,7 +126,7 @@ First of all, we need to create the application backend, for that, you will need
    ```cmd
    echo "VITE_API_URL='yourContentAPIURL'" > .env.local
    ```
-5. In <strong>Settings > API Access > Permanent Auth Tokens</strong>, copy the auto-generated token  
+5. In <strong>Settings > API Access > Permanent Auth Tokens</strong>, copy the auto-generated token 
    <br/> 
    <div align="center">
     <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/179865655-e8785015-f3ac-451f-b8b6-82106b9ed7fa.jpg"> 
@@ -150,27 +150,33 @@ With the installation complete, we can start the project.
 
 Creating a new lesson to be displayed in the <strong>'Class schedule'</strong> tab.
 
-1. In your hygraph project, in <strong>Content > Lesson </strong>, click on <strong>'Create entry'</strong>  
+1. In your hygraph project, in <strong>Content > Lesson </strong>, click on <strong>'Create entry'</strong>
    <br/> 
    <div align="center">
     <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181104978-ad9ed695-285e-46c4-9b5c-a172dd2ff8cc.jpg"> 
    </div>
    <br/>
-2. Please fill in at least all fields marked <strong>'Required'</strong>, after that click on <strong>'Save & publish'</strong>  
+2. Please fill in at least all fields marked <strong>'Required'</strong>, after that click on <strong>'Save & publish'</strong>
    <br/> 
    <div align="center">
     <figure>
       <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181104827-04d0dd2d-9258-4178-9cf8-9b397a6ea1d5.jpg"> 
       <br/><br/>
-      <figcaption><strong>Important note:</strong> In the <strong>'Video ID'</strong> field, below is an example of how to capture just the ID, without the other URL parameters.</figcaption>
+      
+      <figcaption>
+        <strong>WARNING:</strong> In the <strong>'Video ID'</strong> field, below is an example of how to capture just the ID, without the other URL parameters.                 </figcaption>
       <br/><br/>
+      
       <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181107312-68a2b34f-4732-451d-b736-aa9e8300aefb.jpg"> 
     </figure>
    </div>
    <br/>
-   
-<br/>
-
+3. Click <strong>'Save & Publish'</strong> again to finish creating 
+   <br/> 
+   <div align="center">
+    <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181109128-c3fce4c6-d8ae-40e6-b1d0-7be812c9ed8e.jpg"> 
+   </div>
+   <br/><br/>
 
 
 <!---- CONTRIBUTING ---->
