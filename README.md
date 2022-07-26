@@ -164,7 +164,7 @@ Creating a new lesson to be displayed in the <strong>'Class schedule'</strong> t
       <br/><br/>
       
       <figcaption>
-        <strong>WARNING:</strong> In the <strong>'Video ID'</strong> field, below is an example of how to capture just the ID, without the other URL parameters.                 </figcaption>
+        <strong>WARNING:</strong> In the <strong>'Video ID'</strong> field, below is an example of how to capture just the ID, without the other URL parameters, that is, it starts from 'v=' to the next character '&'.                </figcaption>
       <br/><br/>
       
       <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181107312-68a2b34f-4732-451d-b736-aa9e8300aefb.jpg"> 
