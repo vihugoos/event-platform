@@ -126,7 +126,7 @@ First of all, we need to create the application backend, for that, you will need
    ```cmd
    echo "VITE_API_URL='yourContentAPIURL'" > .env.local
    ```
-5. In <strong>Settings > API Access > Permanent Auth Tokens</strong>, copy the auto-generated token 
+5. In <strong>Settings > API Access > Permanent Auth Tokens</strong>, copy the auto-generated token  
    <br/> 
    <div align="center">
     <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/179865655-e8785015-f3ac-451f-b8b6-82106b9ed7fa.jpg"> 
