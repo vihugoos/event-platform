@@ -110,7 +110,7 @@ First of all, we need to create the application backend, for that, you will need
 
 1. Clone the repo 
    ```bash
-   git clone https://github.com/vihugoos/event-platform.git 
+   git clone https://github.com/vihugoos/event-platform.git
    ```
 2. Inside the project root directory install all project dependencies 
    ```cmd
@@ -124,7 +124,7 @@ First of all, we need to create the application backend, for that, you will need
    <br/>
 4. Create an `.env.local` file with your Content API URL (<i>don't forget to change the value of the variable</i>) 
    ```cmd
-   echo "VITE_API_URL='yourContentAPIURL'" > .env.local 
+   echo "VITE_API_URL='yourContentAPIURL'" > .env.local
    ```
 5. In <strong>Settings > API Access > Permanent Auth Tokens</strong>, copy the auto-generated token  
    <br/> 
@@ -145,7 +145,7 @@ With the installation complete, we can start the project.
 
 * Starting the project 
    ```bash
-   npm run dev  
+   npm run dev
    ```
 <br/>
 
