@@ -47,7 +47,7 @@
 ## About The Project
 
 <div align="center">
-  <img src="" align="center" height="500" alt="Project Home Page">
+  <img src="https://user-images.githubusercontent.com/44311634/181088132-a5620217-2b20-4460-a05a-cad3645e9507.gif" align="center" height="650" alt="Project Home Page">
   <br/> <br/> 
 </div>
 A platform where students can sign up to watch available classes. The administrator can create new classes and define the dates on which they are available. The name and email of all subscribers are saved.
