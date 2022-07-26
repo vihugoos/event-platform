@@ -147,6 +147,22 @@ With the installation complete, we can start the project.
    ```bash
    npm run dev
    ```
+
+Creating a new lesson to be displayed in the <strong>'Class schedule'</strong> tab.
+
+1. In your hygraph project, in <strong>Content > Lesson </strong>, click on <strong>'Create entry'</strong>  
+   <br/> 
+   <div align="center">
+    <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181101028-20cfda38-05f6-487c-8549-f0d7ddbdb6fb.jpg"> 
+   </div>
+   <br/>
+2. Please fill in at least all fields marked <strong>'Required'</strong>  
+   <br/> 
+   <div align="center">
+    <img align="center" alt="Auth-Tokens" src="https://user-images.githubusercontent.com/44311634/181102774-f8578a63-9518-4ae7-badd-3c28cc358b06.jpg"> 
+   </div>
+   <br/>
+   
 <br/>
 
 
